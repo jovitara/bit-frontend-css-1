@@ -1,0 +1,17 @@
+body{
+    background-color: blue;
+}
+.p-1{
+    padding: auto;
+    margin: 20px;
+    width: 50%;
+}
+.p-2{
+    padding: 10px 10px 20px 20px;
+}
+.bg-green{
+    background-color: green;
+}
+.bg-red{
+    background-color: red;
+}
